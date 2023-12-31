@@ -5,7 +5,7 @@ I'm Ben Tito a passionate Full Stack Developer with a knack for crafting seamles
 
 🔬 Curiosity drives me, and I'm always up for a challenge. As a dedicated Researcher, I'm committed to staying at the forefront of technology trends and implementing cutting-edge solutions that push boundaries.
 
-✨ Feel free to explore my world of innovation and creativity on my portfolio: mwarabudev.com. If you're ready to collaborate, brainstorm, or simply chat about all things tech, don't hesitate to reach out at johnmwarabuchone@gmail.com.
+✨ Feel free to explore my world of innovation and creativity on my portfolio: mwarabudev.com. If you're ready to collaborate, brainstorm, or simply chat about all things tech, don't hesitate to reach out at bentito@werevu.co.ke
 
 🚀 Let's code, design, and innovate together to shape a digital future that's both functional and beautiful!
 
