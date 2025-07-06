@@ -11,7 +11,7 @@ I'm Ben Tito a passionate Full Stack Developer with a knack for crafting seamles
 
 
 
-<img align="center" src= "https://github-profile-trophy.vercel.app/?username=DevMwarabu&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
+<img align="center" src= "https://github-profile-trophy.vercel.app/?username=bkyalo&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
   
 
 ## 🔧 Technologies Stack 🔧
@@ -33,14 +33,14 @@ I'm Ben Tito a passionate Full Stack Developer with a knack for crafting seamles
 
 ## ⚙️ GitHub Stats ⚙️
 
-<a href="https://github.com/DevMwarabu/DevMwarabu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMwarabu&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/bkyalo/bkyalo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkyalo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/DevMwarabu/DevMwarabu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevMwarabu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Taulant's GitHub Stats" />
+<a href="https://github.com/bkyalo/bkyalo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkyalo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Taulant's GitHub Stats" />
 </a>
 
 
-<a href="https://github.com/DevMwarabu/DevMwarabu.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevMwarabu&repo=DevMwarabu.github.io&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
+<a href="https://github.com/bkyalo/DevMwarabu.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bkyalo&repo=DevMwarabu.github.io&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
 </a>
